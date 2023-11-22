@@ -1,0 +1,169 @@
+{
+  "by": "default",
+  "valid_key": true,
+  "results": {
+    "currencies": {
+      "source": "BRL",
+      "USD": {
+        "name": "Dollar",
+        "buy": 4.9009,
+        "sell": 4.9009,
+        "variation": 0.008
+      },
+      "EUR": {
+        "name": "Euro",
+        "buy": 5.3475,
+        "sell": 5.3475,
+        "variation": -0.015
+      },
+      "GBP": {
+        "name": "Pound Sterling",
+        "buy": 6.1431,
+        "sell": null,
+        "variation": -0.052
+      },
+      "ARS": {
+        "name": "Argentine Peso",
+        "buy": 0.0138,
+        "sell": null,
+        "variation": -0.234
+      },
+      "CAD": {
+        "name": "Canadian Dollar",
+        "buy": 3.577,
+        "sell": null,
+        "variation": -0.009
+      },
+      "AUD": {
+        "name": "Australian Dollar",
+        "buy": 3.2116,
+        "sell": null,
+        "variation": -0.046
+      },
+      "JPY": {
+        "name": "Japanese Yen",
+        "buy": 0.0331,
+        "sell": null,
+        "variation": 0.183
+      },
+      "CNY": {
+        "name": "Renminbi",
+        "buy": 0.6906,
+        "sell": null,
+        "variation": 0.009
+      },
+      "BTC": {
+        "name": "Bitcoin",
+        "buy": 189995.78,
+        "sell": 189995.78,
+        "variation": -1.015
+      }
+    },
+    "stocks": {
+      "IBOVESPA": {
+        "name": "BM&F BOVESPA",
+        "location": "Sao Paulo, Brazil",
+        "points": 125626.03,
+        "variation": -0.26
+      },
+      "IFIX": {
+        "name": "Índice de Fundos de Investimentos Imobiliários B3",
+        "location": "Sao Paulo, Brazil",
+        "points": 3191.36,
+        "variation": -0.16
+      },
+      "NASDAQ": {
+        "name": "NASDAQ Stock Market",
+        "location": "New York City, United States",
+        "points": 14199.98,
+        "variation": -0.59
+      },
+      "DOWJONES": {
+        "name": "Dow Jones Industrial Average",
+        "location": "New York City, United States",
+        "points": 35088.29,
+        "variation": -0.18
+      },
+      "CAC": {
+        "name": "CAC 40",
+        "location": "Paris, French",
+        "points": 7229.45,
+        "variation": -0.24
+      },
+      "NIKKEI": {
+        "name": "Nikkei 225",
+        "location": "Tokyo, Japan",
+        "points": 33354.14,
+        "variation": -0.1
+      }
+    },
+    "available_sources": [
+      "BRL"
+    ],
+    "bitcoin": {
+      "blockchain_info": {
+        "name": "Blockchain.info",
+        "format": [
+          "USD",
+          "en_US"
+        ],
+        "last": 36573.14,
+        "buy": 36573.14,
+        "sell": 36573.14,
+        "variation": -1.015
+      },
+      "coinbase": {
+        "name": "Coinbase",
+        "format": [
+          "USD",
+          "en_US"
+        ],
+        "last": 36560.02,
+        "variation": -1.036
+      },
+      "bitstamp": {
+        "name": "BitStamp",
+        "format": [
+          "USD",
+          "en_US"
+        ],
+        "last": 36587.0,
+        "buy": 36577.0,
+        "sell": 36575.0,
+        "variation": -0.98
+      },
+      "foxbit": {
+        "name": "FoxBit",
+        "format": [
+          "BRL",
+          "pt_BR"
+        ],
+        "last": 180949.9899,
+        "variation": -0.64
+      },
+      "mercadobitcoin": {
+        "name": "Mercado Bitcoin",
+        "format": [
+          "BRL",
+          "pt_BR"
+        ],
+        "last": 180674.45580195,
+        "buy": 180505.3660795,
+        "sell": 180606.1761414,
+        "variation": -0.562
+      }
+    },
+    "taxes": [
+      {
+        "date": "2023-11-20",
+        "cdi": 12.25,
+        "selic": 12.25,
+        "daily_factor": 1.00045513,
+        "selic_daily": 12.15,
+        "cdi_daily": 12.15
+      }
+    ]
+  },
+  "execution_time": 0.0,
+  "from_cache": true
+}
